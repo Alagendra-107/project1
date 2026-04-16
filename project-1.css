@@ -90,29 +90,28 @@ body {
 
 
 .hero{
-    margin:20px 120px;
     /* border: 1px solid black; */
     display: flex;
     color: black;
 }
 .hero-title{
     /* border: 1px solid black; */
-    margin: 20px 70px 0px 0px;
-    font-size: 68px;
+    margin: 20px 90px 0px 70px;
+    font-size: 65px;
     
 }
 
 .hero-description{
     /* border: 1px solid black; */
-    margin: 190px 350px 50px 0px;
+    margin: 190px 350px 50px 70px;
     font-size: 25px;
     font-weight: lighter;
 }
 
 .hero-buttons {
     position: relative;
-    right: 295px;
-    margin: 0px 180px;
+    right: 210px;
+    margin: 0px 180px 0px;
     display: flex;
     justify-content: space-evenly;  
 }
@@ -145,14 +144,14 @@ body {
 }
 .hero-text{
     /* border: 1px solid black; */
-    margin: 0px 120px;
+    margin: 10px 120px;
 }
 
 .hero-trust{
     font-size: 40px;
     font-weight: bold;
     color: black;
-    margin: 10px 600px;
+    margin: 80px 300px;
 }
 
 .brand-logos{
@@ -170,7 +169,7 @@ body {
     background-color: #ccd2d1;
     color: black;
     /* border: 1px solid black; */
-    margin: 10px 120px;
+    margin: 50px 120px;
     display: flex;
 
 }
@@ -242,6 +241,7 @@ body {
 .features-section{
     color: black;
     /* border: 1px solid black; */
+    margin: 0px 0px 0px 0px;
 }
 .features-container{
     /* border: 1px solid black; */
@@ -328,7 +328,7 @@ body {
     font-size: 20px;
 }
 .benefits-image-container{
-    margin: 40px 0px 0px 150px;
+    margin: 40px 0px 0px 80px;
 }
 .benefits-image-container img{
     height: 110%;
