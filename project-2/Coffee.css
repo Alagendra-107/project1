@@ -443,6 +443,7 @@ span{
     letter-spacing: 0.14em;
     color:#5b6660;
     text-transform: uppercase;
+
 }
 
 .visit__time{
@@ -450,7 +451,7 @@ span{
     display: flex;
     gap: 340px;
     letter-spacing: 0.35px;
-   
+    line-height: 2;
 }
 .visit__image{
     position: static;
